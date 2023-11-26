@@ -17,7 +17,7 @@ body {
 
 /* HEADER */
 .header {
-	background-color: red;
+	background-color: #1F2937;
 	flex-direction: row;
 	align-items: right;
 	justify-content: space-between;
@@ -69,10 +69,17 @@ h3 a{
 
 /* FIRST */
 .first {
-	background-color: yellow;
+	/* margin: 40px; */
+	background-color: #1F2937;
 	display: flex;
 	flex-direction: row;
 	min-height: 17vh;
+}
+
+.first h1 {
+	color: #F9FAF8;
+	font-size: 48px;
+	font-weight: extra-bold;
 }
 
 .first .left {
@@ -96,7 +103,7 @@ h3 a{
 /* SECOND */
 .second {
 	min-height: 14vh;
-	background-color: green;
+	background-color: #FFFFFF;
 	display: flex;
 	flex-direction: column;
 }
@@ -122,18 +129,18 @@ h3 a{
 /* THIRD */
 .third {
 	min-height: 17vh;
-	background-color: blue;
+	background-color: #E5E7EB;
 }
 
 /* FOURTH */
 .fourth {
 	min-height: 17vh;
-	background-color: purple;
+	background-color: #FFFFFF;
 }
 
 /* FOOTER */
 .footer {
-	background-color: orange;
+	background-color: #1F2937;
 	min-height: 5vh;
 }
 
