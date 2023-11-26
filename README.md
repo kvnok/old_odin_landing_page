@@ -1,1 +1,17 @@
 # odin_landing_page
+- [ ] template html
+- [ ] divs
+- [ ] containers
+- [ ] flex items
+- [ ] links
+- [ ] spacing
+- [ ] text
+- [ ] quote
+- [ ] boxes
+- [ ] button
+- [ ] colors
+- [ ] font style
+- [ ] images
+- [ ] other pages
+- [ ] link back to main page
+- [ ] add icons
