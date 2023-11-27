@@ -1,4 +1,4 @@
-# odin_landing_page
+# old_odin_landing_page
 - [ ] template html
 - [ ] divs
 - [ ] containers
